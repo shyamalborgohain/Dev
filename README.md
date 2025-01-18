@@ -1,1 +1,1 @@
-### An effort to learn **Python and Numerical Computing** 
+#### Exploring the realms of Python programming and numerical computing, driven by curiosity and a passion for data-driven insights. Your guidance and support are welcome - people are asked to help! Comments, suggestions, and feedback are highly appreciated. Let's learn and grow together!
